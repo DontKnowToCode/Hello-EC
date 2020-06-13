@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 Hello Effortless coders.
 We are taking so much of effortys to become an effective coders.
 Coding is today's language of creativity.
-=======
-Hello Effortless coders
-We are taking so much of effortys to become an effective coders
->>>>>>> parent of 5699584... Abishani's change
