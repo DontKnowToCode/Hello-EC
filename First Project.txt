@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Hello Effortless coders
 We are taking so much of efforts to become an effective coders
 Programming isn't about what you know; it's about what you can figure out.
+=======
+Hello Effortless coders.
+We are taking so much of effortys to become an effective coders.
+Coding is today's language of creativity.
+>>>>>>> 28b6fd74f41ae3cbb0195a4c7530a7beef551dbd
